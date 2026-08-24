@@ -29,7 +29,14 @@ b: The primary behavior of a carabiner can be modeled via static equilibrium and
   ii - Assumption: the carabiner is subjected primarily to an axial tensile load, as it is designed to handle. Bending and torsional loads are neglected. 
   c: Photographs of each component are shown below. Under each photograph, the geometry of that component and how it affects its mechanical function are described. 
 
-  ![The part shown is the clip that allows whatever object you intetnd to use to slip into the carabiner, but not out.](IMG_1350)
+  ![](IMG_1350)
+The gate is a slender, hinged member spanning the opening of the carabiner. When closed, it's geometry completes the load path and prevents slippage. 
+
+ ![](IMG_1349)
+The pin is a smaller oval-like shaft located at the gates hinge. Its geometry allows it to sit pressed against the body and gate, locking the gate in place. It can also pop out from in-between the body and gate, sliding across the gate to allow it to open fully. 
+
+ ![](IMG_1348)
+The body is a curved, almost complete loop of metal. Its geometry, the thickness of the metal and its cross-sectional area, determines its load bearing capabilities. 
 
 ## Decide
 
