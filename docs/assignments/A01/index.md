@@ -29,7 +29,7 @@ b: The primary behavior of a carabiner can be modeled via static equilibrium and
   ii - Assumption: the carabiner is subjected primarily to an axial tensile load, as it is designed to handle. Bending and torsional loads are neglected. 
   c: Photographs of each component are shown below. Under each photograph, the geometry of that component and how it affects its mechanical function are described. 
 
-  ![The part shown is the clip that allows whatever object you intetnd to use to slip into the carabiner, but not out.](IMG_1348)
+  ![The part shown is the clip that allows whatever object you intetnd to use to slip into the carabiner, but not out.](IMG_1350)
 
 ## Decide
 
