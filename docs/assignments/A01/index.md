@@ -27,6 +27,9 @@ a: The Primary function of a carabiner is to mechanically connect and secure a l
 b: The primary behavior of a carabiner can be modeled via static equilibrium and tensile stress equations. The governing physical principle is Newton's law of mechanics, specifically static equilibrium. 
   i - σ=F/A, where σ is tensile stress in the carabiner material, F is the applied tensile load, A is the cross-sectional area carrying the load. 
   ii - Assumption: the carabiner is subjected primarily to an axial tensile load, as it is designed to handle. Bending and torsional loads are neglected. 
+  c: Photographs of each component are shown below. Under each photograph, the geometry of that component and how it affects its mechanical function are described. 
+
+  ![Description of image](IMG_1350.jpg)
 
 ## Decide
 
