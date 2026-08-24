@@ -15,7 +15,11 @@ Portfolio #1 - https://kylegough.co.uk/?utm_source=chatgpt.com
   Professional tone: The language is no issue in this portfolio. 
 
 
-Portfolio #2 - https://github.com/ivansaul/personal-portfolio?utm_source=chatgpt.com
+Portfolio #2 - https://github.com/dj-berg/personal-portfolio-website
+  Navigation:
+  Reproducibility:
+  Evidence of Reasoning:
+  Professional tone:
 
 ## Decide
 
