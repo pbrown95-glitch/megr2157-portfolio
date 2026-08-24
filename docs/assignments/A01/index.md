@@ -16,10 +16,11 @@ Portfolio #1 - https://kylegough.co.uk/?utm_source=chatgpt.com
 
 
 Portfolio #2 - https://github.com/dj-berg/personal-portfolio-website
-  Navigation:
-  Reproducibility:
-  Evidence of Reasoning:
-  Professional tone:
+  Navigation: On GitHub, it took a noticeably longer time than 60s to find the projects. 
+  Reproducibility: Based on images, one could reproduce this portfolio's projects, but not without asking questions or looking things up. 
+  Evidence of Reasoning: This portfolio only gives the final answer to the projects. 
+  Professional tone: This portfolio does not meet the standards I would hold myself to if a potential employer were to be looking at it. 
+
 
 ## Decide
 
