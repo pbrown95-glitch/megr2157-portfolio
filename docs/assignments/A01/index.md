@@ -38,8 +38,17 @@ The pin is a smaller oval-like shaft located at the gates hinge. Its geometry al
  ![](IMG_1348)
 The body is a curved, almost complete loop of metal. Its geometry, the thickness of the metal and its cross-sectional area, determines its load bearing capabilities. 
 
+c: The patent number for this object is US20180056135A1, and its author is Young Chu.
+  i - The first alternative to a carabiner would be to simply tie what you wish to hold together with rope and knot. The second is a Quick link, a closed, threaded metal connector.
+  ii - One specific design choice the original engineer made is to have the gate connect to the body in three spots, two of those permanent the other a resting spot. I believe they made this choice due to the extra stability this design has over a gate that is a solid loop. With the current design, the gate does not move around at all, except for when it is intended to move. 
+
 ## Decide
 
+1.  Homepage Identity: The homepage is designed to give readers an immediate understanding of my portfolio, how to navigate it, and who is behind the words. It shows the portfolio as a professional record of engineering work done in megr2156, with documentation clearly organized and labeled for the reader. 
+
+2.  One Intentional Customization:
+
+3.  Your Documentation Standard: For this portfolio I am committing myself to find a specific instance from each past assignment where there is room for growth and then improve that aspect in each following assignment, with the intended goal of showing my growth and dedication.
 
 ## Communicate
 
