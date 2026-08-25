@@ -3,6 +3,8 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 
 theme:
   name: material
+  extra_css:
+  - stylesheets/extra.css
   palette:
     primary: dark green
   features:
