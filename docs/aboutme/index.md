@@ -12,4 +12,4 @@ As I work towards becoming a mechanical engineer, I want to become someone who c
 
 To defend an engineering decision means having both the theory and evidence to support why a particular decision was made. An engineer should be able to explain the reasoning behind a solution and use research, calculations, data, testing, or other evidence to show the decided solution is the correct and most efficient one. I believe I could defend an engineering decision, but I also recognize that my ability to do so is currently limited by my understanding. I understand the basic idea of supporting a decision with reasoning and proof that can hold up to scrutiny, but I still need to develop the technical knowledge and experience to do it confidently and thoroughly.  
 
-This assignment took me about 4 to 5 hours to complete. 
+This assignment took me about 4 to 5 hours to complete.
