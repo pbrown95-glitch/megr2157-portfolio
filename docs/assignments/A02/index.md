@@ -6,7 +6,7 @@ The Objectives for this project are as follows. Design a truss using A500 steel,
 
 ## Analyze
 
-
+### Design of Overall Truss Geometry 
 
 
 
