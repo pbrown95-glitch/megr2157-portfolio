@@ -14,7 +14,9 @@ To start off this project, I began by using the given figure above, where a = 0.
 
  ![](part1)
 
+With the sketches, knowns, unknowns, and symbolic calculations written down, I moved on to plugging in the given lengths and forces into a new sketch. To do that, I had to calculate the lengths of each member as well as the sin and cos so that the x and y values of diagonal internal forces could be found. With them, I numerically calculated each internal force as well as reaction forces, using equilibrium equations learned in Statics. 
 
+ ![](Part2)
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
