@@ -7,11 +7,12 @@ The Objectives for this project are as follows. Design a truss using A500 steel,
 ## Analyze
 
   ### Design of Overall Truss Geometry 
+
+ ![](initialGiven)
   
-To start off this project, I began by using the given image below, where a = 0.4 m, b = 0.3 m, p = 20kN, A is a pin support, and B is a roller support, to sketch my truss. 
- ![](initialGiven.md)
+To start off this project, I began by using the given figure above, where a = 0.4 m, b = 0.3 m, p = 20kN, A is a pin support, and B is a roller support, to sketch my truss. I made the truss as symmetric and simple as I could to keep the calculations easy and the work needed to a minimum. After sketching the truss, I added all external forces and labeled each point of interest for easy reference and listed all knowns as well as the internal force unknowns. Using that, I broke down the truss into its individual joints and sketched them as well. With the sketches complete and all known and unknown variables accounted for, I symbolically solved for all internal forces. All work is shown in the Image below. 
 
-
+ ![](part1)
 
 
 
