@@ -7,6 +7,7 @@ The Objectives for this project are as follows. Design a truss using A500 steel,
 ## Analyze
 
   ### Design of Overall Truss Geometry 
+  
 To start off this project, I began by using the given image below, where a = 0.4 m, b = 0.3 m, p = 20kN, A is a pin support, and B is a roller support, to sketch my truss. 
  ![](initialGiven)
 
