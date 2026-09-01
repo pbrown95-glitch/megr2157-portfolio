@@ -6,7 +6,7 @@ The Objectives for this project are as follows. Design a truss using A500 steel,
 
 ## Analyze
 
-  ### Design of Overall Truss Geometry 
+### Design of Overall Truss Geometry 
 
 ![](initialGiven)
   
@@ -21,6 +21,8 @@ With the sketches, knowns, unknowns, and symbolic calculations written down, I m
  With the internal forces and reaction forces found, I could move on to using the largest internal force, 16.025kN, to calculate the minimum cross-sectional area and weight of the truss using a safety factor of 3.5, yield strength of 290Mpa, and density of 7,800kg/m^3. The safety factor was given, but I had to research the yield strength as well as the density of A500 steel. Once done, I listed all knowns and unknowns for easy reference and proceeded to solve symbolically, then numerically. 
 
 ![](Part3)
+
+### Design of Overall Pin Geometry 
 
   
 
