@@ -28,6 +28,9 @@ The pin support at A needed a pin designed as it has to hold up to the stresses 
 
 ![](5.jpeg)
 
+### Design of CAD Parts
+
+
   
 
 ## Decide
