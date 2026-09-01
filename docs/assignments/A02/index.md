@@ -23,7 +23,9 @@ With the sketches, knowns, unknowns, and symbolic calculations written down, I m
 ![](Part3)
 
 ### Design of Overall Pin Geometry 
+The pin support at A needed a pin designed as it has to hold up to the stresses applied. Just like the truss, I found the cross-sectional area of the pin, which is made of hardened tool steel. It has a yield shear strength of 170ksi, a density of 0.278lb/in^3, and a safety factor of 4. With this information as well as what I had previously found, the reaction force at A, and a drawn FBD sketch of the pin, I could begin to solve symbolically for the minimum cross-sectional area and weight of the pin. 
 
+![](Part4)
   
 
 ## Decide
