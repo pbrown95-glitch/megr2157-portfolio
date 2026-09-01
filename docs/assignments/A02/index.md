@@ -30,11 +30,12 @@ The pin support at A needed a pin designed as it has to hold up to the stresses 
 
 ### Design of CAD Parts
 
+I began my CAD design on SolidWorks by sketching the truss, as I did for the FBDs. I then set the dimensions to match those of the truss I made. 
+![](Part1.png)
 
+After finalizing the dimensions, I used the structural member option to extrude the sketch into a 3d truss. 
+![](Part2.png)
   
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
+###lesson learned
+From this assignment, I refreshed my knowledge of truss calculations and came to the realization that the things we learn from the previous semesters go away quickly unless they are used. I had to go searching for old notebooks to complete this. Yield strength and safety factors are new to me, and I had to do research and watch YouTube tutorials on how to calculate with them. Most of all, though, I realized I am nowhere near as proficient in CAD as I had thought I was. I made the mistake of starting too late and was left with no time to teach myself how to use SolidWorks. This assignment was especially tricky as well, since the instructions left out parts that we had to research, decide ourselves, or fill in the holes. This assignment took me about 7 hours, and I wish I could spend more on it. I made it through the truss design and calculations pretty smoothly, but I began to make many mistakes on SolidWorks and was forced to restart quite a few times, and in the end did not finish. Engineering is a demanding discipline; time management and use of resources are lessons I learned from A2. 
 
