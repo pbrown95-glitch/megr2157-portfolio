@@ -29,6 +29,8 @@ The pin support at A needed a pin designed as it has to hold up to the stresses 
 ![](5.jpeg)
   
 
+[download for truss part(.SLDPRT)]blob:https://github.com/95f1bcd9-9c15-411a-8ff8-d587f10b1f2c
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
