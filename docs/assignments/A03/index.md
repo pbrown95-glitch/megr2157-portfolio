@@ -31,4 +31,7 @@ With this setup, I ran the simulation and generated a deflection map as well as 
 The axial deflection from my hand calculations was 0.00899in, while the FEA predicted an axial deflection of 0.008984in. The percent difference between the two results is 0.18%. The results are essentially the same because the bar has a simple geometry and is primarily subjected to axial loading. The cross-section is relatively uniform, so the hand calculation closely match the conditions modeled in the FEA. For this design, I would trust the FEA result more because FEA accounts for the actual geometry, loading, and boundary conditions of the model, whereas the hand calculation relies on simplifying assumptions. However, the very small difference between the two results provides confidence that both methods are accurate for this simple loading case.
 ![w](Work03.jpeg)
 
+[Download the SolidWorks Part](BarA03.SLDPRT)
+
+During this assignment, I learned how to run a FEA on a part built in SolidWorks, and that you have to assign a material not only in the parts tree, but also on the simulation tab. Using the FEA, I learned how to read stress and displacement maps as well as how to use them. I spent a total of 2hr and 48min on reading the assignment, completing it, and uploading it here as well as canvas. 
 
