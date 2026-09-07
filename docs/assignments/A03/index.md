@@ -23,16 +23,12 @@ Now done with designing and building the bar, I setup a simulation to run a FEA 
 ![w](FixedEnd.png)
 ![w](Mesh.png)
 
-With this setup, I ran the simulation and generated a deflection map as well as a Von Mises Stress map. Using these, I checked if the maximum stress was lower than the strength of my material, aluminum. I then used that maximum stress number to calculated the safety factor. 
+With this setup, I ran the simulation and generated a deflection map as well as a Von Mises Stress map. Using these, I checked if the maximum stress was lower than the strength of my material, aluminum, which is absolutely was. I then used that maximum stress number and aluminum's yield strength to calculate the safety factor which came to a staggering 14.3.
 ![w](Deflection01.png)
 ![w](VonMises.png)
 ![w](Work02.jpg)
 
+The axial deflection from my hand calculations was 0.00899in, while the FEA predicted an axial deflection of 0.008984in. The percent difference between the two results is 0.18%. The results are essentially the same because the bar has a simple geometry and is primarily subjected to axial loading. The cross-section is relatively uniform, so the hand calculation closely match the conditions modeled in the FEA. For this design, I would trust the FEA result more because FEA accounts for the actual geometry, loading, and boundary conditions of the model, whereas the hand calculation relies on simplifying assumptions. However, the very small difference between the two results provides confidence that both methods are accurate for this simple loading case.
+![w](Work03.jpg)
 
- 
-
-## Decide
-
-
-## Communicate
 
