@@ -5,7 +5,7 @@ The objective of assignment A03 is to use parametric and finite element analysis
 
 ## Analyze
 To start off this assignment, I opened a new part in Solid-works. Then, in equations, I listed the parameters: Force, 
-  ![]()
+  ![w](Parametric.png)
 
 ## Decide
 
