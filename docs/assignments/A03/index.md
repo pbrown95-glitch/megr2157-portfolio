@@ -9,6 +9,7 @@ To start off this assignment, I had to find the design requirements. I was given
 
 Once I had my parameters outlined, I moved onto making the cad model. To start, I opened a new part in SolidWorks, then in equations I listed the parameters: Force, Diameter, Length, E, MaxDeflection, and Area as well as their corresponding value or equation previously found.
   ![w](Parametric.png)
+  
 The area was rounded to 0.2in^2, while I myself rounded down to 30in in my work shown which was reversed in SolidWorks. 
 
 Using my Equations table, I sketched a circle and set its diameter, then extruded it.
