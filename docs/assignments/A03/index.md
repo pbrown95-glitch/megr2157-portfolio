@@ -17,12 +17,16 @@ Using my Equations table, I sketched a circle and set its diameter to 0.5in, the
   ![w](Extrude.png)
 
 With the bar generated, I applied my custom material Aluminum. To do this, I copied and pasted an existing aluminum alloy, then deleted all its values and inserted my own as shown:
- ![w](Material.png)
+ ![w](CustomMaterial.png)
 
-Now done with designing and building the bar, I conducted a FEA with the 500lbf used to create the bars dimensions. One side of the bar was fixed in place, then the other had the load applied, directed out from the bar. 
-
- ![w](FixedEnd.png)
+Now done with designing and building the bar, I setup a simulation to run a FEA with the 500lbf used to create the bars dimensions. To do this, one side of the bar was fixed in place, then the other end had the load applied, directed out from the bar. finally, a mesh was added to the bar:
+![w](FixedEnd.png)
 ![w](Mesh.png)
+
+Using this setup, I ran the simulation and generated a deflection map as well as a Von Mises Stress map. Using these, I checked if the maximum stress was lower than the strength of my material, aluminum. I then used that maximum stress number to calculated the safety factor. 
+![w](Deflection01.png)
+![w](VonMises.png)
+![w](Work02.jpg)
 
 
  
