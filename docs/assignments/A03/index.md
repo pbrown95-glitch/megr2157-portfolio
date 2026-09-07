@@ -16,6 +16,9 @@ Using my Equations table, I sketched a circle and set its diameter to 0.5in, the
   ![w](Sketch.png)
   ![w](Extrude.png)
 
+With the bar generated, I applied my custom material Aluminum. To do this, I copied and pasted an existing aluminum alloy, then deleted all its values and inserted my own as shown:
+ ![w](Materials.png)
+
 ## Decide
 
 
