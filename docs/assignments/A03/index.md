@@ -23,7 +23,7 @@ Now done with designing and building the bar, I setup a simulation to run a FEA 
 ![w](FixedEnd.png)
 ![w](Mesh.png)
 
-Using this setup, I ran the simulation and generated a deflection map as well as a Von Mises Stress map. Using these, I checked if the maximum stress was lower than the strength of my material, aluminum. I then used that maximum stress number to calculated the safety factor. 
+With this setup, I ran the simulation and generated a deflection map as well as a Von Mises Stress map. Using these, I checked if the maximum stress was lower than the strength of my material, aluminum. I then used that maximum stress number to calculated the safety factor. 
 ![w](Deflection01.png)
 ![w](VonMises.png)
 ![w](Work02.jpg)
