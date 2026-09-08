@@ -1,7 +1,7 @@
 # A3 – [Topic]
 
 ## Objective
-The objective of assignment A03 is to use parametric and finite element analysis to design a bars dimensions. I'll learn to properly link dimensions in cad as well as compare and contrast the different analysis. 
+The objective of assignment A03 is to use parametric and finite element analysis to design a bars dimensions. learn to properly link dimensions in cad as well as compare and contrast the different analysis. 
 
 ## Analyze
 To start off this assignment, I had to find the design requirements. I was given F=500lbf, E=8.5e^6psi, max axial deflection = 0.009in, and the material is Aluminum. With that, I calculated by hand the length, diameter, and cross sectional area of the bar using the direct tension elongation equation from the Machinery's Handbook. 
