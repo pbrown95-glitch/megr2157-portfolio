@@ -1,4 +1,4 @@
-# A3 – [Topic]
+# A3 – [Parametric and FEA]
 
 ## Objective
 The objective of assignment A03 is to use parametric and finite element analysis to design a bars dimensions. learn to properly link dimensions in cad as well as compare and contrast the different analysis. 
