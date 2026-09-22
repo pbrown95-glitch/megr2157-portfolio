@@ -1,6 +1,7 @@
 # A5 – Bracket Design
 
- ![](appendix 1.png)
+ ![](appendix1.png)
+  ![](appendix2.png)
 
 ## Objective
 
