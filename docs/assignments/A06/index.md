@@ -53,3 +53,7 @@
 
 ## Reflections
 
+  Looking back at the assignment and reviewing my work, I realized there were a couple of design choices. I messed up or still don't fully understand. I think I began from the wrong plane when starting, or I just don't fully know how to make use of the orientation of the drawings. I also extruded inward when creating feature b, Im not sure if that's the correct choice. I spent around 7 hours on A6. 
+
+
+
