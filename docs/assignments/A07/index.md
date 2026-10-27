@@ -3,13 +3,21 @@
 ## Objective
 
 -Use Finite Element Analysis (FEA) to improve the bracket design from previous assignments.
+
 -Ensure high stiffness, strength, and lightweight optimization through iterative design.
+
 -Conduct multiple FEA simulations, refining geometry based on results.
+
 -Perform static stress analysis, including constraints, loading, and meshing selection.
+
 -Interpret data by identifying max stress, displacement, and safety factors.
+
 -Optimize the design by modifying geometry to enhance performance.
+
 -Document the entire process with images, calculations, and insights.
+
 -Reflect on key engineering lessons learned and time spent
+
 
 ## Description
 
@@ -126,6 +134,10 @@ Using the same calculation to find the change in the properties of interest, I f
 ![w](d33.png)
 
 Compared with Design 2’s retained results, Design 3 reduced maximum stress by approximately 79.0% and maximum displacement by approximately 92.0%. Mass increased from 1.85 lb to 1.97 lb, an increase of approximately 6.5% based on the rounded values. Increasing the stem thickness substantially improved the predicted response with a relatively small increase in total bracket mass. While still not reaching ideal values, the changes made a significant improvement to the structural stability of this part. 
+
+### Final Table
+![w](TableA7.png)
+
 
 
 ## Reflection and Part Download
