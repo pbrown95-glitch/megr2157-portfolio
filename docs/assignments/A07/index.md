@@ -21,6 +21,7 @@ The existing Aluminum 6061-T6 bracket was used as the baseline design, designate
 ![w](Design1_fixed.png)
 ![w](ForceApplied.png)
 ![w](Material.png)
+These remain constant throughout all designs. 
 
  
 ### Design One
@@ -51,7 +52,9 @@ For iteration three, the mesh was made finer once again. This time, the maximum 
 
 #### Design One Report
 Using the values found after running the FEA, the change from one mesh to another was tracked. These changes were quantified as a percent through the equation 100*(|Xf-Xo|/Xf), where Xf is the latest value, and Xo is the previous value. 
-The desired convergence of 7% was not reached in every property through all three iterations, so I stopped at three. 
+The desired convergence of 7% was not reached in every property through all three iterations, so I stopped at three. The inside corners of the stems that connect the rod to the slider undergo the most stress. The end of the rod furthest from the slider undergoes the most displacement. 
+![w](d1.png)
+![w](d11.png)
 
 
 ### Design 2
