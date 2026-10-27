@@ -127,4 +127,15 @@ Using the same calculation to find the change in the properties of interest, I f
 
 Compared with Design 2’s retained results, Design 3 reduced maximum stress by approximately 79.0% and maximum displacement by approximately 92.0%. Mass increased from 1.85 lb to 1.97 lb, an increase of approximately 6.5% based on the rounded values. Increasing the stem thickness substantially improved the predicted response with a relatively small increase in total bracket mass. While still not reaching ideal values, the changes made a significant improvement to the structural stability of this part. 
 
-## Reflection
+
+## Reflection and Part Download
+
+This assignment taught me to check mesh convergence separately from design performance. In Design 1, maximum stress increased from 651.2 MPa to 829.1 MPa as the mesh became finer, while displacement changed much less. This showed why stress, displacement, and safety factor each need a convergence check.
+
+I initially confused meeting the 7% convergence criterion with reaching the safety-factor target of 4. Design 3 met the convergence criterion, but its minimum safety factor was only 1.553. I also learned that inside fillets add material, reinforcing sharp connections.
+
+Increasing the stem thickness had a larger effect than adding fillets alone. Compared with Design 2, Design 3 reduced maximum stress by approximately 79% and displacement by 92%, while increasing mass by approximately 6.5%. Further improvement would focus on the upper crosspiece near the stem junction, where the final maximum stress occurred.
+
+Total time spent: 4 hours, including modeling, simulation, calculations, and documentation.
+[Download the SolidWorks Part](A7_1.SLDPRT)
+
