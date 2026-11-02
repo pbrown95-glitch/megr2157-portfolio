@@ -6,7 +6,7 @@
 
 ## Design and Drawing
 
-###Parametric Equations List
+### Parametric Equations List
 
   Using my numbers gotten from A5, I created an equation list in SolidWorks with the dimensions of features a-e in the Global Variables. This  will allow me to link the dimensions of the model to these variables, thus allowing easy scaling of the model as needed. Units were included in comments for easy reference. 
 ![w](EquationTable.png)
