@@ -43,7 +43,7 @@ The output shaft’s calculated maximum torsional shear stress is 407.44 psi, be
 ### Size and length of the journal bearing; the pressure, velocity, and PV rating
 
 ![w](KnownsBearing.png)
-![w](UnknownsBearing.png)
+![w](UnknowsBearing.png)
 ![w](AssumptionsBearing.png)
 ![w](BearingWorkFBD.png)
 ![w](MaterialBEaring.png)
