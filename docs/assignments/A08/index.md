@@ -23,7 +23,7 @@ Document calculations, sketches, and lessons learned.
 ### Input Shaft 
 
 ![w](InputKnowns.png)
-![w](InputUnknowns.png)
+![w](InputUnknowns.png) 
 ![w](InputShaftWork.png)
 
 The calculated maximum torsional shear stress is 1,222.31 psi, below the assumed allowable shear stress of 4,000 psi. Therefore, the specified 0.125-inch input shaft diameter is sufficient under the simplified torsional model. No diameter increase is required.
