@@ -45,7 +45,7 @@ The output shaft’s calculated maximum torsional shear stress is 407.44 psi, be
 ![w](KnownsBearing.png)
 ![w](UnknownsBearing.png)
 ![w](AssumptionsBearing.png)
-![w](BearingWork.png)
+![w](BearingWorkFBD.png)
 ![w](MaterialBEaring.png)
 
 Porous bronze is selected for the journal bearings. With a bearing length of 0.250 inch, the calculated pressure, surface speed, and pressure–velocity product are below the respective porous-bronze limits in the lecture table for both shaft locations. Each bearing was checked using the full resultant gear force as a conservative design load.
@@ -68,7 +68,7 @@ I selected oil-embedded 841 bronze sleeve bearings from McMaster-Carr. The input
 
 ## Sketch a two-component gearbox housing fitted together
 
-![w](HousingDesign.pdf)
+![w](HousingDesign.png)
 
 
 ## Generate a CAD Model of the two halves of the gearbox.
