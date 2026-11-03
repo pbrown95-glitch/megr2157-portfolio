@@ -73,13 +73,16 @@ I selected oil-embedded 841 bronze sleeve bearings from McMaster-Carr. The input
 
 ## Generate a CAD Model of the two halves of the gearbox.
 
-### Where appropriate, parametrically generate critical features of a solid model starting with the known parameters and finishing with the dimensions and material.
+### Parametrically generate critical features of a solid model
 
-### Download the necessary items from Mac-Master
+![w](Para.png)
 
-### Generate the rest of the solid model.
+### CAD Model
 
-
+![w](WholePart.png)
+![w](Close.png)
+![w](ShaftB.png)
+![w](Pins.png)
 
 
 ##  Detail Lessons Learn throughout the assignment. No lesson too small. Time spent
