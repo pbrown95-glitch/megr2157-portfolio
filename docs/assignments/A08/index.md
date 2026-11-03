@@ -68,7 +68,7 @@ I selected oil-embedded 841 bronze sleeve bearings from McMaster-Carr. The input
 
 ## Sketch a two-component gearbox housing fitted together
 
-![w](HousingDesign.png)
+![w](HousingDesign.pdf)
 
 
 ## Generate a CAD Model of the two halves of the gearbox.
