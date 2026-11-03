@@ -98,15 +98,22 @@ The SolidWorks Equations window parametrically records the design inputs and cal
 ### CAD Model
 
 Assembled gearbox. The housing face is transparent in this view so the two gears and their placement inside the housing can be seen.
+
 ![w](WholePart.png)
 
+
 Gear mesh detail. The close-up shows the relative positions of the pinion and gear teeth at the selected shaft spacing.
+
 ![w](Close.png)
 
+
 Shafts and sleeve bearings. The 0.125 in input shaft is on the left, and the 0.250 in output shaft is on the right. Each shaft uses two 0.250 in long sleeve bearings.
+
 ![w](ShaftB.png)
 
+
 Housing alignment pin. Six pins of this type are positioned around the perimeter to align the housing body and removable face.
+
 ![w](Pins.png)
 
 
