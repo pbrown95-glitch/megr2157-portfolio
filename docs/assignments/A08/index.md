@@ -1,7 +1,6 @@
 # A8 – Gears
 
 
-
 ## Objective
 
 Design a gearbox that can be assembled and disassembled.
@@ -63,7 +62,7 @@ I selected a trial radial wall thickness of 0.03125 in for both bearings. The th
 
 ![w](2C.png)
 
-I selected oil-embedded 841 bronze sleeve bearings from McMaster-Carr. The input shaft uses two 6391K753 bearings for a 1/8-in shaft and a 3/16-in housing bore. The output shaft uses two 6391K126 bearings for a 1/4-in shaft and a 5/16-in housing bore. Both are 1/4 in long. Using the nominal diameters, the radial wall thickness is (0.18750-0.12500)/2=0.03125 in for the input bearing and (0.31250-0.25000)/2=0.03125 in for the output bearing. The pressure, surface speed, and PV values calculated in Section 2a are within the lecture limits for porous bronze.
+I selected oil-embedded 841 bronze sleeve bearings from McMaster-Carr. The input shaft uses two 6391K753 bearings for a 1/8-in shaft and a 3/16-in housing bore. The output shaft uses two 6391K126 bearings for a 1/4-in shaft and a 5/16-in housing bore. Both are 1/4 in long. Using the nominal diameters, the radial wall thickness is (0.18750-0.12500)/2 = 0.03125 in for the input bearing and (0.31250-0.25000)/2 = 0.03125 in for the output bearing. The pressure, surface speed, and PV values calculated in Section 2a are within the lecture limits for porous bronze.
 
 
 ## Sketch a two-component gearbox housing fitted together
@@ -71,7 +70,7 @@ I selected oil-embedded 841 bronze sleeve bearings from McMaster-Carr. The input
 ![w](HousingDesign.png)
 
 
-## Generate a CAD Model of the two halves of the gearbox.
+## CAD Model
 
 ### Parametrically generate critical features of a solid model
 
@@ -85,5 +84,5 @@ I selected oil-embedded 841 bronze sleeve bearings from McMaster-Carr. The input
 ![w](Pins.png)
 
 
-##  Detail Lessons Learn throughout the assignment. No lesson too small. Time spent
+## Lessons Learned
 
