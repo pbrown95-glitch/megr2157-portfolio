@@ -31,7 +31,7 @@ The calculated maximum torsional shear stress is 1,222.31 psi, below the assumed
 ### Output Shaft
 
 ![w](OutputKnowns.png)
-![w](OutputUnknowns.png)
+![w](OutUnknowns.png)
 ![w](OutAssumptions.png)
 ![w](OutputShaftWork.png)
 
