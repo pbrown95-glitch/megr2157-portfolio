@@ -46,7 +46,7 @@ The output shaft’s calculated maximum torsional shear stress is 407.44 psi, be
 ![w](UnknowsBearing.png)
 ![w](AssumptionsBearing.png)
 ![w](BearingWorkFBD.png)
-![w](MaterialBEaring.png)
+![w](MaterialBearing.png)
 
 Porous bronze is selected for the journal bearings. With a bearing length of 0.250 inch, the calculated pressure, surface speed, and pressure–velocity product are below the respective porous-bronze limits in the lecture table for both shaft locations. Each bearing was checked using the full resultant gear force as a conservative design load.
 
