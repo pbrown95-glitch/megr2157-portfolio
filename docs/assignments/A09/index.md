@@ -17,7 +17,7 @@
 
 ### Belt
 
-The belt drive was designed using two 3-inch pulleys with a center distance of 5 inches, an operating speed of 1500rpm, and a static tension of 5lb in the belt. An assumed coefficient of friction of 1 and a wrap angle of 180 degrees, or pi radians. Applying the capstan equation at impending slip and assuming T1=T2=2To produced a tight-side tension of 9.586 lbf and a loose-side tension of 0.414 lbf. Using the given material for the belt, polyurethane, and its yield strength of 471 and a safety factor of 3, the minimum belt area was calculated as 0.279 inches. A 5/16-inch polyurethane round belt, McMaster-Carr part 59725K733, was selected. Its calculated axial-stress safety factor is 3.77, and its minimum permitted pulley diameter of 2.5 inches is below the specified 3-inch diameter.
+The belt drive was designed using two 3-inch pulleys with a center distance of 5 inches, an operating speed of 1500rpm, and a static tension of 5lb in the belt. An assumed coefficient of friction of 1 and a wrap angle of 180 degrees, or pi radians. Applying the capstan equation at impending slip and assuming T1+T2=2To produced a tight-side tension of 9.586 lbf and a loose-side tension of 0.414 lbf. Using the given material for the belt, polyurethane, and its yield strength of 471psi and a safety factor of 3, the minimum belt cross-sectional area was calculated as 0.0611 square inches, corresponding to a minimum diameter of 0.279 inches. A 5/16-inch polyurethane round belt, McMaster-Carr part 59725K733, was selected. Its calculated axial-stress safety factor is 3.77, and its minimum permitted pulley diameter of 2.5 inches is below the specified 3-inch diameter.
 
 ![w](1.png)
 
